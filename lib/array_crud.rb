@@ -4,7 +4,7 @@ nba = []
 end
 
 def create_an_array
-nba = ["Heat","Jazz"]
+nba = ["Heat","Jazz","Magic","Jaguars"]
 
 end
 
