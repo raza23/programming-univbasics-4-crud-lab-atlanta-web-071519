@@ -9,8 +9,9 @@ nba = ["Heat","Jazz","Magic","Jaguars"]
 end
 
 def add_element_to_end_of_array(array, element)
-nba = ["Heat","Jazz","Magic","Jaguars"]
-nba.push("Cavs")
+array = ["Heat","Jazz","Magic","Jaguars"]
+element = "Cavs"
+array.push(element)
 
 end
 
