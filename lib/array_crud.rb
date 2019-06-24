@@ -40,19 +40,19 @@ array[0]
 end
 
 def retrieve_first_element_from_array(array)
-array = ["am","Heat","Jazz","Magic","Jaguars"]
+array = ["wow","Heat","Jazz","Magic","Jaguars"]
 array[0]
 
 end
 
 def retrieve_last_element_from_array(array)
-array = ["Heat","Jazz","Magic","Jaguars"]
+array = ["Heat","Jazz","Magic","arrays!"]
 array[-1]
 
 end
 
 def update_element_from_index(array, index_number, element)
 array = ["Heat","Jazz","Magic","Jaguars"]
-array[0]= "Sup"
+array[0]= "totally"
 
 end
