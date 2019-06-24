@@ -17,7 +17,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   array = ["Heat","Jazz","Magic","Jaguars"]
-  element = "arrays!"
+  element = "wow"
   array.unshift(element)
 end
 
