@@ -34,22 +34,25 @@ array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-array = ["Heat","Jazz","Magic","Jaguars"]
+array = ["am","Jazz","Magic","Jaguars"]
 array[0]
 
 end
 
 def retrieve_first_element_from_array(array)
-nba[0]
+array = ["am","Heat","Jazz","Magic","Jaguars"]
+array[0]
 
 end
 
 def retrieve_last_element_from_array(array)
-nba[-1]
+array = ["Heat","Jazz","Magic","Jaguars"]
+array[-1]
 
 end
 
 def update_element_from_index(array, index_number, element)
-nba[0]= "Magic"
+array = ["Heat","Jazz","Magic","Jaguars"]
+array[0]= "Sup"
 
 end
