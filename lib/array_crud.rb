@@ -34,7 +34,8 @@ array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-nba[0]
+array = ["Heat","Jazz","Magic","Jaguars"]  
+array[0]
 
 end
 
